@@ -1,0 +1,2 @@
+not_cyberbullying,sort,benignant,benign,gentle,hospitable,like,kindhearted,kindly,variety,genial,charitable,gracious,type,benevolent,sympathetic
+cyberbullying,stalking,doxing,facebook,hate speech,twitter,national crime prevention council,ask.fm,suicide of megan meier,self-harm,bullying,harassment,internet,threats,2010s,threat

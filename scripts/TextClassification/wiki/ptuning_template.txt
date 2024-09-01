@@ -1,0 +1,4 @@
+{"soft": "<soft>"} {"soft": "<soft>"} {"placeholder": "text_a"} {"soft": "<soft>"} {"mask"} .
+{"soft": "<soft>"} {"soft": "<soft>"} {"placeholder": "text_a"} {"mask"} .
+{"soft": "<soft>"} {"placeholder": "text_a"} {"soft": "<soft>"} {"mask"} .
+{"placeholder": "text_a"} {"soft": "<soft>"} {"soft": "<soft>"} {"mask"} .

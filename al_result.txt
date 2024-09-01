@@ -1,0 +1,76 @@
+====================
+dataset weibo	temp 0	seed 123	shot 20	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.05	bt 32	lr 3e-5
+Acc: 0.7049321189207768	Pre: 0.6270844474727028	Rec: 0.6662123747696591	F1s: 0.6327345090002298
+
+====================
+dataset weibo	temp 0	seed 123	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.05	bt 16	lr 2e-5
+Acc: 0.620725210517271	Pre: 0.5749450215715959	Rec: 0.6063754570119493	F1s: 0.5619176064733624
+
+====================
+dataset weibo	temp 0	seed 123	shot 20	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.05	bt 16	lr 2e-5
+Acc: 0.602337171335281	Pre: 0.5873784889407876	Rec: 0.6273689064353845	F1s: 0.5606211360262341
+
+====================
+dataset weibo	temp 0	seed 123	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.05	bt 16	lr 1e-5
+Acc: 0.7367245231139371	Pre: 0.5999327223755704	Rec: 0.588835437703896	F1s: 0.5931198628273816
+
+====================
+dataset weibo	temp 0	seed 123	shot 20	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.05	bt 16	lr 1e-5
+Acc: 0.7025262072521051	Pre: 0.6154138733851643	Rec: 0.6463127317441321	F1s: 0.6212184747151859
+
+====================
+dataset weibo	temp 0	seed 123	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.05	bt 16	lr 3e-5
+Acc: 0.7712665406427222	Pre: 0.6295799851638386	Rec: 0.5691445047173478	F1s: 0.5750677648025734
+
+====================
+dataset weibo	temp 0	seed 123	shot 20	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.05	bt 16	lr 3e-5
+Acc: 0.5136621412613851	Pre: 0.5636875831235164	Rec: 0.5903749872632476	F1s: 0.49435722042673064
+
+====================
+dataset weibo	temp 0	seed 123	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.05	bt 32	lr 2e-5
+Acc: 0.7444578106203815	Pre: 0.6095099056104146	Rec: 0.5946332937846375	F1s: 0.6001222344456668
+
+====================
+dataset weibo	temp 0	seed 123	shot 20	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.05	bt 32	lr 2e-5
+Acc: 0.7671421206392851	Pre: 0.6425316040633611	Rec: 0.6139564584401925	F1s: 0.6235306896868663
+
+====================
+dataset weibo	temp 0	seed 123	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.05	bt 32	lr 1e-5
+Acc: 0.6715930572263276	Pre: 0.6019835412089632	Rec: 0.6378088986292664	F1s: 0.601810348639911
+
+====================
+dataset weibo	temp 0	seed 123	shot 20	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.05	bt 32	lr 1e-5
+Acc: 0.7197112905997594	Pre: 0.612218077644787	Rec: 0.6276561957608633	F1s: 0.6176880509250354
+
+====================
+dataset weibo	temp 0	seed 123	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.05	bt 32	lr 3e-5
+Acc: 0.5959786904966489	Pre: 0.5835402620215526	Rec: 0.6218862310092862	F1s: 0.5549909968461719
+
+====================
+dataset weibo	temp 0	seed 123	shot 20	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.05	bt 32	lr 3e-5
+Acc: 0.6444406255370339	Pre: 0.6224031299788876	Rec: 0.6777652569024564	F1s: 0.6033943378684484
+
+====================
+dataset weibo	temp 0	seed 123	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.05	bt 64	lr 2e-5
+Acc: 0.7444578106203815	Pre: 0.6095099056104146	Rec: 0.5946332937846375	F1s: 0.6001222344456668
+
+====================
+dataset weibo	temp 0	seed 123	shot 20	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.05	bt 64	lr 2e-5
+Acc: 0.7338030589448359	Pre: 0.6222141037619082	Rec: 0.6321578390178108	F1s: 0.626399066150092
+
+====================
+dataset weibo	temp 0	seed 123	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.05	bt 64	lr 1e-5
+Acc: 0.6715930572263276	Pre: 0.6019835412089632	Rec: 0.6378088986292664	F1s: 0.601810348639911
+
+====================
+dataset weibo	temp 0	seed 123	shot 20	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.05	bt 64	lr 1e-5
+Acc: 0.6886062897405052	Pre: 0.6131051788833412	Rec: 0.6498298024464927	F1s: 0.6162323668995181
+
+====================
+dataset weibo	temp 0	seed 123	shot 10	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.05	bt 64	lr 3e-5
+Acc: 0.5959786904966489	Pre: 0.5835402620215526	Rec: 0.6218862310092862	F1s: 0.5549909968461719
+
+====================
+dataset weibo	temp 0	seed 123	shot 20	verb manual	cali False	filt none	maxsplit -1	kptw_lr 0.05	bt 64	lr 3e-5
+Acc: 0.7370682247808902	Pre: 0.6224157862878235	Rec: 0.6285989744971358	F1s: 0.62520837963992
+

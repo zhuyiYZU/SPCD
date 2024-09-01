@@ -1,0 +1,1 @@
+ {"placeholder": "text_a"}Please help me determine if the above news title is clickbait or not？ Answer: {"mask"}
